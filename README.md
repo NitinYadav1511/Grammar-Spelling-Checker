@@ -108,13 +108,6 @@ class Config:
     LANGUAGE_TOOL_PATH = 'path/to/languagetool'
 ```
 
-## Testing
-
-Run the test suite:
-
-```bash
-python -m pytest tests/
-```
 
 ## Error Handling
 
